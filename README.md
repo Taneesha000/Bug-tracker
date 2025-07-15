@@ -1,6 +1,6 @@
 # 🐞 Bug Tracker App
 
-> A smart, ML-powered bug tracking app to manage issues and predict the most suitable team member for assignment 🔧✨
+> A smart, ML-powered bug tracking app to manage issues and predict the bugs. 🔧✨
 
 ---
 
