@@ -6,9 +6,10 @@
 
 ## 📸 Demo Screenshot
 
-> _Example interface (replace with actual screenshot):_
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Bug+Tracker+App+Demo)
+
+![App Screenshot]()
+<img width="1848" height="1076" alt="Screenshot 2025-07-16 022948" src="https://github.com/user-attachments/assets/ef026bd7-f579-47e2-ade0-951abc231d03" />
 
 ---
 
